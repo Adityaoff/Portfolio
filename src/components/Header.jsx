@@ -22,7 +22,7 @@ const Header = () => {
           lg:px-8 flex items-center justify-between h-16 md:h-20"
       >
         {/*logo*/}
-        {/* commite */}
+      
         <motion.div
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}
