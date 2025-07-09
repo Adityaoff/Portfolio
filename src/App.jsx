@@ -7,7 +7,7 @@ export default function App() {
     
       <Header />
       <HeroSection />
-      {  /*  <CustomCursor/>*/}
+       <CustomCursor/>
     </>
   )
 }
